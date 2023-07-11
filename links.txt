@@ -1,0 +1,54 @@
+https://regex101.com/
+
+https://spring.io/
+
+https://p5js.org/
+
+https://thecodingtrain.com/
+
+https://softuni.bg/downloads/svn/js-advanced/May-2022/JS-Advanced/JS-interview-questions.md?fbclid=IwAR3xhLRoykyV23Ve7S4GUEkmh-9ltEsM08xRQSn0CfJD3fKEkg3OmiVyJJo
+
+https://javac.bg
+
+Как си намерих работа като junior dev
+https://www.codencrossfit.com/post/kak-si-namerih-rabota-covid-19-chast2?fbclid=IwAR3aenu3WIyn5-2X7ABcgI5WzkIcux9hmWNKiLubP_LRwzMm5-aebexSJSc
+
+Big-O Complexity Chart
+https://www.bigocheatsheet.com/
+
+java cheat-sheet
+https://www.interviewbit.com/java-cheat-sheet/
+
+conversions, like char to String, String to char and more. 
+https://www.hellocodeclub.com/java-8-cheat-sheet-most-used-conversions-char-to-string
+
+algorithms
+https://visualgo.net/en
+
+start tomcat
+kristina@kristina-Latitude-E6540:~/Downloads$  sudo /opt/tomcat/bin/startup.sh
+
+link to pdf in github
+[View Instructions (PDF)](path/to/instructions.pdf)
+Replace path/to/instructions.pdf with the actual path to your PDF
+
+https://www.embedpdf.com/
+
+https://pdfobject.com/generator/
+
+make diagrams
+https://app.diagrams.net/
+
+https://zerotomastery.io
+
+https://cheatsheets.tutorials24x7.com/cheatsheets/programming/java/oop
+
+http://libgen.rs/
+
+https://resume.io/
+
+https://gitexplorer.com/
+
+https://mvnrepository.com/
+
+
